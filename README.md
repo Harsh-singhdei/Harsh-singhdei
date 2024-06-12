@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding empowering the machine to perform there work by own (#Automation)
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking for new projects 
-- 📫 How to reach me mail id:- harshsingh06a@gmail.com  Linkedin:- https://www.linkedin.com/in/harsh-singh-1207b8293/
+- 📫 How to reach me mail id:- harshsingh06a@gmail.com  Linkedin:- https://www.linkedin.com/in/harsh-singhdei/
 - ⚡ Fun fact: I am a eager learner ready to learn new technologies
 
 <!---
